@@ -5,5 +5,3 @@ theme = 'yinyang'
 
 [build]
   render = false
-
-mainSections = ["links"]
