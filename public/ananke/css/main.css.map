@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/mnt/wsl/mdata/tool/demo",
+	"sourceRoot": "/mnt/wsl/mdata/tool/d",
 	"sources": [
 		"ananke/css/main.css"
 	],

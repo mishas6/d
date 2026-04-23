@@ -1,0 +1,7 @@
+- title: "Hugo Docs"
+  url: "https://gohugo.io"
+  type: external
+
+- title: "About Page"
+  url: "/about/"
+  type: internal

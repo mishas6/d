@@ -1,4 +1,9 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'ananke'
+title = '文档教程'
+theme = 'yinyang'
+
+[build]
+  render = false
+
+mainSections = ["links"]
