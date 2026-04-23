@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文档教程</title>
+    <title>Links on 文档教程</title>
     <link>http://localhost:1313/links/</link>
-    <description>Recent content on 文档教程</description>
+    <description>Recent content in Links on 文档教程</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Apr 2026 11:02:08 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/links/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1</title>
+      <title>图片上传</title>
       <link>http://localhost:1313/links/1/</link>
       <pubDate>Thu, 23 Apr 2026 11:02:08 +0800</pubDate>
       <guid>http://localhost:1313/links/1/</guid>
